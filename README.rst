@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Welcome to the source of IVDC Club's Read The Docs Page
+=======================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+You can find the page here:
+https://ivdc.readthedocs.io/en/latest/
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/

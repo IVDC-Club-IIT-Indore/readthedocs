@@ -1,10 +1,11 @@
-# Configuration file for the Sphinx documentation builder.
 
+# Configuration file for the Sphinx documentation builder.
+from datetime import datetime
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'IVDC Club'
+copyright = u'{year} IVDC Club, IIT Indore'.format(year=datetime.now().year)
+show_authors = False
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +18,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.mathjax',
 ]
 
 intersphinx_mapping = {
@@ -33,3 +35,8 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# The name of an image file (within the static path) to use as favicon of the
+# docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
+# pixels large.
+#html_favicon = None
