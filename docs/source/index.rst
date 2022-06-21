@@ -1,5 +1,5 @@
 Welcome to IVDC Club's documentation!
-===================================
+=====================================
 
 **IVDC** (Intelligent Vehicle Design and Control) Club is a group of autonomous vehicle enthusiasts of IIT Indore working on cutting-edge research and development of all types of Intelligent Vehicles.
 
@@ -17,3 +17,4 @@ Contents
    about-us
    ubuntu-installation
    ros-installation
+   faq
