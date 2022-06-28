@@ -42,7 +42,7 @@ Bootable USB flashdrive
 Dual Booting
 ------------
 
-* Enter BIOS setup menu , Click on ```try Ubuntu``` before installation . 
+* Enter BIOS setup menu , Click on ``try Ubuntu`` before installation . 
 
 .. note::
     Check wifi , sound and graphics are working properly.
