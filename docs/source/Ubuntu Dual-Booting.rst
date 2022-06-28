@@ -52,11 +52,5 @@ After Setup
 -----------
 `Fixing USB drive size issues <https://www.youtube.com/watch?v=-qxc1VcsaNE>`_
 
-Docker Installation and Usage
------------------------------
- 
-WSL
----
-
 FAQs
 ----
