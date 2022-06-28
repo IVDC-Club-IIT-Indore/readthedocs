@@ -1,9 +1,9 @@
 Ubuntu Dual-Booting
 ===================
 
-.. _installation:
+.. note::
 
-**Backup your data before dual-boot.**
+    **Backup your data before dual-boot.**
 
 Download Ubuntu
 ---------------
@@ -11,7 +11,7 @@ Download Ubuntu
 Install Ubuntu 18.04 LTS (Bionic Beaver) in dual-boot (Windows pre-installed).
 
 * Download: `Ubuntu 18.04 LTS <https://releases.ubuntu.com/bionic/>`_
-* Install desktop image 
+* Install 'Desktop image' 
 
 Guides
 ------
@@ -25,7 +25,8 @@ Guides
 Bootable USB flashdrive
 -----------------------
 
-* Create disk partion and allocate space for Ubuntu OS (Allocate at least 40 GB space)
+* Create disk partion and allocate space for Ubuntu OS. **Allocate at least 40 GB space.**
+
 * Create a bootable USB flashdrive
 
 **Method 1** :
@@ -43,10 +44,13 @@ Dual Booting
 
 * Enter BIOS setup menu , Click on try Ubuntu before installation . 
 
+.. note::
     Check wifi , sound and graphics are working properly.
 
 * Refer all guides and follow any one of your choice.
-* **CAUTION** : Be extremely careful 
+
+.. caution::
+    Be extremely careful while following the instructions.
 
 After Setup
 -----------
