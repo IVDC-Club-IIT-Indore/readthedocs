@@ -16,7 +16,7 @@ Install Ubuntu 18.04 LTS (Bionic Beaver) in dual-boot (Windows pre-installed).
 Guides
 ------
 
-1. Tutorial: `Dual-boot with Windows <https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/>`_
+1. Tutorial: `Dual-boot with Windows 10 <https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/>`_
 
 2. `How to Dual Boot Ubuntu and Windows 10 <https://www.youtube.com/watch?v=Z-Hv9hOaKso&t=554s>`_
 
