@@ -10,14 +10,14 @@ Download Ubuntu
 
 Install Ubuntu 18.04 LTS (Bionic Beaver) in dual-boot (Windows pre-installed).
 
-* Download: 'Ubuntu 18.04 LTS <https://releases.ubuntu.com/bionic/>'_
+* Download: 'Ubuntu 18.04 LTS <https://releases.ubuntu.com/bionic/>'_.
 * Install desktop image 
 
 
 Guides
 ------
 
-1. Tutorial: 'Dual-boot with Windows <https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/>'_
+1. Tutorial: 'Dual-boot with Windows <https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/>'_.
 
 2. 'How to Dual Boot Ubuntu and Windows 10  <https://www.youtube.com/watch?v=Z-Hv9hOaKso&t=554s>' 
 
