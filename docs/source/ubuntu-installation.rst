@@ -1,6 +1,30 @@
 Ubuntu Dual-Booting
 ===================
 
+.. code-block:: bash
+    
+                .-/+oossssoo+/-.               john@john-Inspiron-13-7378 
+            `:+ssssssssssssssssss+:`           -------------------------------- 
+          -+ssssssssssssssssssyyssss+-         OS: Ubuntu 18.04.6 LTS x86_64 
+        .ossssssssssssssssssdMMMNysssso.       Host: Inspiron 13-7378 
+       /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.4.0-120-generic 
+      +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 33 mins 
+     /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 3164 
+    .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 4.4.20 
+    +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080 
+    ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 3.28.4 
+    ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: GNOME Shell 
+    +sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
+    .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Ambiance [GTK2/3] 
+     /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Ubuntu-mono-dark [GTK2/3] 
+      +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
+       /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: Intel i5-7200U (4) @ 3.100GHz 
+        .ossssssssssssssssssdMMMNysssso.       GPU: Intel HD Graphics 620 
+          -+sssssssssssssssssyyyssss+-         Memory: 2926MiB / 7827MiB 
+            `:+ssssssssssssssssss+:` 
+                .-/+oossssoo+/-.                                       
+
+
 .. note::
 
     **Backup your data before dual-boot.**
