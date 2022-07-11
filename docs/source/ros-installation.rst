@@ -2,7 +2,8 @@ ROS Installation
 ================
 
 
-These instructions are for Ubuntu 18.04 LTS and ROS Melodic, which are officially available `here. <http://wiki.ros.org/melodic/Installation/Ubuntu>`_ 
+These instructions are for `ROS Melodic <http://wiki.ros.org/melodic/Installation/Ubuntu>`_ (Ubuntu 18.04) and `ROS Noetic <http://wiki.ros.org/noetic/Installation/Ubuntu>`_ (Ubuntu 20.04), which are officially available `here. <http://wiki.ros.org/ROS/Installation>`_ 
+
 
 Installing ROS
 ---------------
@@ -24,8 +25,8 @@ Set up your keys:
     $ curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
 
 
-Installing ROS Melodic
-^^^^^^^^^^^^^^^^^^^^^^
+Installing ROS Melodic/Noetic
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Make sure your Ubuntu package index is up-to-date: 
 
 
@@ -39,6 +40,13 @@ Install ROS Melodic:
 
     $ sudo apt install ros-melodic-desktop-full
 
+.. note::
+    If you want to install ROS Noetic instead:
+
+    .. code-block:: bash
+
+        $ sudo apt install ros-noetic-desktop-full    
+
 Environment setup 
 ^^^^^^^^^^^^^^^^^
 
@@ -49,6 +57,13 @@ It's convenient if the ROS environment variables are automatically added to your
     $ echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
     $ source ~/.bashrc
 
+.. note::
+    If you've installed ROS Noetic:
+        .. code-block:: bash
+
+            $ echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
+            $ source ~/.bashrc    
+
 Dependencies for building packages
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Run the following to install the rosinstall tool and other dependencies for building ROS packages, which are convenient to have.
@@ -56,6 +71,12 @@ Run the following to install the rosinstall tool and other dependencies for buil
 .. code-block:: bash 
 
     $ sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential
+
+.. note::
+    If you've installed ROS Noetic you need to install corresponding Python3 packages as follows:
+        .. code-block:: bash
+
+            $ sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential    
 
 Initialize your rosdep:
 
